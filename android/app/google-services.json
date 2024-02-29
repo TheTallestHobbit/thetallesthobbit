@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "415249705316",
+    "project_id": "thetallesthobbit-e4d1c",
+    "storage_bucket": "thetallesthobbit-e4d1c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415249705316:android:436e4aeb240b40937a7271",
+        "android_client_info": {
+          "package_name": "com.example.thetallesthobbit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2NLWUaJE3UeC4XO3XOQpwFia8RaGWTqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
